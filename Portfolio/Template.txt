@@ -1,0 +1,37 @@
+|====================================|
+|            My Portfolio            |
+[ About Me ] [  Skills  ] [ Projects ]
+|====================================|
+|              About Me              |
+|====================================|
+| My name is Abraham Sanchez. I am a |
+| web developer based in Texas.      |
+| I specialize in creating backend   |
+| systems and APIs.                  |
+|====================================|
+|              Skills                |
+|====================================|
+| - JavaScript/TypeScript            |
+|  - CLI Applications                |
+| - Python                           |
+|  - Data Analysis                   |
+|  - Application Development         |
+| - C++                              |
+|  - CLI Applications                |
+| - C                                |
+|  - CLI Applications                |
+| - Ruby                             |
+|  - CLI Applications                |
+|  - Data Analysis                   |
+| - R                                |
+|  - Data Analysis                   |
+| - Lua                              |
+|  - CLI Applications                |
+|====================================|
+|             Projects               |
+|====================================|
+| - Placeholder Project              |
+| - Placeholder Project              |
+| - Placeholder Project              |
+|====================================|
+|_____&copy; 2025 Abraham Sanchez____|
